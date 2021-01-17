@@ -8,7 +8,7 @@ E="\033[1;31m[-] \033[0m"
 
 #if [[ $(id -u) != 0 ]]
 #then
-#   echo -e ""$E"Permission denied!"
+#   echo -e ""$E"Permission denieds!"
 #   exit
 #fi
 
